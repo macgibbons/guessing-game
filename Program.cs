@@ -23,6 +23,8 @@ namespace GuessingGame {
                 }
             }
 
+            Console.WriteLine($"Game Over, you lose! It was {secretNumber}");
+
         }
     }
 }
